@@ -1,6 +1,6 @@
 import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons';
 import { faBell } from '@fortawesome/free-regular-svg-icons';
-import { faGithub, faBlogger, faYoutube } from '@fortawesome/free-brands-svg-icons';
+import { faGithub, faBlogger } from '@fortawesome/free-brands-svg-icons';
 import image from '../asset/wonny.jpg';
 import { IProfile } from '../component/profile/IProfile';
 
