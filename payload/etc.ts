@@ -5,10 +5,11 @@ const etc: IEtc.Payload = {
 
   list: [
     {
-      title: 'Capstone Design Contest',
-      subTitle: 'Grand Prize',
-      startedAt: '2015-05',
+      title: '2015 재외동포재단 UCC공모전',
+      subTitle: '장려상',
+      startedAt: '2015-11',
     },
+    /*
     {
       title: 'IT Education Service Activities',
       subTitle: 'Wrold Friends IT Volunteer',
@@ -20,6 +21,7 @@ const etc: IEtc.Payload = {
       subTitle: 'Silver Prize',
       startedAt: '2008-05',
     },
+    */
   ],
 };
 

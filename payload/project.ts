@@ -3,6 +3,7 @@ import { IProject } from '../component/project/IProject';
 const project: IProject.Payload = {
   disable: false,
   list: [
+    /*
     {
       title: 'Mashup API Development',
       startedAt: '2018-02',
@@ -29,6 +30,7 @@ const project: IProject.Payload = {
         },
       ],
     },
+    */
     {
       title: '애드맥스',
       startedAt: '2020-02',
@@ -48,7 +50,7 @@ const project: IProject.Payload = {
         { content: '클릭양이 많아지면서 클릭서버를 scale-up할지 서버를 하나 생성할지 제안 후 클릭 서버 신설' },
         { content: '포스트백 추적을 통해 액션서버의 부하를 줄임' },
         { content: '액션, 클릭 서버의 꺼짐 현상 해결, 클릭 서버를 scale-up과 주기적 로그 삭제를 통해 메모리, 디스크 부족 해결' },
-        { content: '' },
+        { content: '페이스북, 인스타, 유튜브 스크래핑 수정 okhttp, Jsoup' },
       ],
     },
   ],
