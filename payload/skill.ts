@@ -4,7 +4,11 @@ const backend: ISkill.Skill = {
   category: 'Back-end',
   items: [
     {
-      title: 'Node.js',
+      title: 'SpringBoot',
+      level: 3,
+    },
+    {
+      title: 'Java',
       level: 3,
     },
     {
@@ -12,15 +16,7 @@ const backend: ISkill.Skill = {
       level: 3,
     },
     {
-      title: 'PHP',
-      level: 2,
-    },
-    {
-      title: 'Java',
-      level: 1,
-    },
-    {
-      title: 'Python',
+      title: 'Node.js',
       level: 1,
     },
     {
@@ -38,15 +34,15 @@ const database: ISkill.Skill = {
       level: 3,
     },
     {
-      title: 'Oracle',
-      level: 2,
-    },
-    {
-      title: 'Redis',
-      level: 2,
-    },
-    {
       title: 'MongoDB',
+      level: 2,
+    },
+    {
+      title: 'Oracle',
+      level: 1,
+    },
+    {
+      title: 'LiteSql',
       level: 1,
     },
   ],
@@ -56,20 +52,16 @@ const frontend: ISkill.Skill = {
   category: 'Front-end',
   items: [
     {
-      title: 'Next.js',
-      level: 2,
-    },
-    {
-      title: 'React.js',
-      level: 2,
-    },
-    {
       title: 'javascript',
       level: 2,
     },
     {
       title: 'HTML/CSS',
-      level: 2,
+      level: 1,
+    },
+    {
+      title: 'React.js',
+      level: 1,
     },
   ],
 };
@@ -78,10 +70,10 @@ const etc: ISkill.Skill = {
   category: 'Etc',
   items: [
     {
-      title: 'Ubuntu',
+      title: 'Linux',
     },
     {
-      title: 'Vim',
+      title: 'ShellScript',
     },
     {
       title: 'Security',
@@ -95,6 +87,16 @@ const etc: ISkill.Skill = {
     {
       title: 'Confluence',
     },
+    {
+      title: 'Rundeck',
+    },
+    {
+      title: 'Git / Github',
+    },
+    {
+      title: 'Bitbucket',
+    },
+    
   ],
 };
 

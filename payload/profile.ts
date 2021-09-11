@@ -1,47 +1,48 @@
 import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons';
 import { faBell } from '@fortawesome/free-regular-svg-icons';
-import { faGithub, faFacebook, faYoutube } from '@fortawesome/free-brands-svg-icons';
-import image from '../asset/_sample.jpg';
+import { faGithub, faBlogger, faYoutube } from '@fortawesome/free-brands-svg-icons';
+import image from '../asset/wonny.jpg';
 import { IProfile } from '../component/profile/IProfile';
 
 const profile: IProfile.Payload = {
   disable: false,
 
-  // image: 'https://resume.yowu.dev/static/image/profile_2019.png',
   image,
   name: {
-    title: 'Lorem ipsum',
-    small: '(LI)',
+    title: '한 정 원',
+    small: '(cutewonny)',
   },
   contact: [
     {
-      title: 'foo@bar.xyz',
-      link: '#',
+      title: 'cutewonny@gmail.com',
+      link: 'cutewonny@gmail.com',
       icon: faEnvelope,
     },
     {
-      title: 'Please contact me by email',
+      title: '010-9475-0201',
       icon: faPhone,
       badge: true,
     },
     {
-      title: 'https://github.com',
-      link: 'https://github.com/uyu423/resume-nextjs',
+      title: 'https://github.com/cutewonny',
+      link: 'https://github.com/cutewonny',
       icon: faGithub,
     },
     {
-      link: 'https://www.facebook.com/iu.loen',
-      icon: faFacebook,
+      link: 'https://cutewonny.tistory.com/',
+      icon: faBlogger,
     },
+    /*
     {
       title: 'YouTube',
       link: 'https://www.youtube.com/channel/UC3SyT4_WLHzN7JmHQwKQZww',
       // icon: faRss,
       icon: faYoutube,
     },
+    */
   ],
   notice: {
-    title: "This resume is a sample page of 'https://github.com/uyu423/resume-nextjs'.",
+    title: "안녕하세요 2년 차 개발자 한정원입니다. 꾸준함의 가치를 알기 위해 1일 1블로그 운동을 하고 있습니다. 고객의 니즈 충족에 대한 고민을 생활화 합니다. 사람을 좋아하고 개발 모임에 꾸준히 참여 중입니다.",
     icon: faBell,
   },
 };
