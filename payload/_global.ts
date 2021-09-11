@@ -1,9 +1,9 @@
 import favicon from '../asset/favicon.ico';
-import previewImage from '../asset/preview.jpg';
+import previewImage from '../asset/wonny.jpg';
 import { IGlobal } from '../component/common/IGlobal';
 
-const title = 'WONNY RESUME Page';
-const description = 'This is a wonny web resume.';
+const title = 'RESUME: Han Jeongwon';
+const description = 'This is Back-end Developer Jeongwon Han';
 
 export const _global: IGlobal.Payload = {
   favicon,
@@ -24,9 +24,9 @@ export const _global: IGlobal.Payload = {
       ],
       type: 'profile',
       profile: {
-        firstName: 'Lorem',
-        lastName: 'ipsum',
-        username: 'lorem',
+        firstName: 'JeongWon',
+        lastName: 'Han',
+        username: 'wonny',
         gender: 'female',
       },
     },

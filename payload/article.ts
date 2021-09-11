@@ -5,18 +5,17 @@ const article: IArticle.Payload = {
 
   list: [
     {
-      content: "IU's agency announces official online merchandise shop for fans (2020.04.22)",
-      href:
-        'https://www.gmanetwork.com/entertainment/celebritylife/news/62342/ius-agency-announces-official-online-merchandise-shop-for-fans/story',
+      content: '(2021. 9. 10) okhttp로 get 요청하는 방법 with java',
+      href: 'https://cutewonny.tistory.com/entry/okhttp?category=970376',
     },
     {
-      content: 'K-pop star IU donates ₩100 million to doctors for coronavirus relief (2020.02.27)',
-      href: 'http://www.koreabiomed.com/news/articleView.html?idxno=7550',
+      content: '(2021. 8. 24) 런덱 설치 방법',
+      href: 'https://cutewonny.tistory.com/entry/런덱-설치-방법?category=970376',
     },
     {
-      content: 'IU donates 100 million KRW after being inspired by her fans (2019.12.30)',
+      content: '(2021. 8. 16) 개발자 모드에서 스크립트를 어떻게 불러오지?',
       href:
-        'https://www.allkpop.com/article/2019/12/iu-donates-to-100-million-krw-after-being-inspired-by-her-fans',
+        'https://cutewonny.tistory.com/entry/크롬-개발자모드에서-스크립트를-어떻게-불러오지?category=970374',
     },
   ],
 };

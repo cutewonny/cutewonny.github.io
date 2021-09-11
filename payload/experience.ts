@@ -13,7 +13,7 @@ const experience: IExperience.Payload = {
         '광고주 사이트에 tracking Tool 설치, 가이드',
         '운영진에게 개발 관련 지식 교육과 데이터 추적 등의 기타 업무 수행',
       ],
-      skillKeywords: ['AngularJS', 'SpringBoot', 'java', 'Rundeck', 'AWS', 'Mysql', 'MongoDB', 'Rundeck', 'javascript', 'Linux', 'ShellScript','JIRA','Confluence','Bitbucket'],
+      skillKeywords: ['AngularJS', 'SpringBoot', 'java', 'Rundeck', 'Mysql', 'MongoDB', 'Rundeck', 'javascript', 'Linux', 'ShellScript','JIRA','Confluence','Bitbucket', 'AWS', 'Athena', 'Route53', 'S3'],
     },
     {
       title: '[기흥 삼성]-인프라 사용량부하율관리 자동화',
@@ -23,9 +23,8 @@ const experience: IExperience.Payload = {
       descriptions: [
         'PM 1명, 중급 개발자 5명, 초급 개발자 3명 구성',
         'QA, 문서 작성',
-        'AWS infrastructure and RDBMS maintenance and development',
       ],
-      skillKeywords: ['Node.js', 'MySQL', 'AWS', 'SVN'],
+      skillKeywords: ['JAVA', 'JQuery', 'Oracle', 'SVN'],
     },
   ],
 };
