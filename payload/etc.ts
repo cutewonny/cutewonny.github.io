@@ -5,8 +5,8 @@ const etc: IEtc.Payload = {
 
   list: [
     {
-      title: '2015 재외동포재단 UCC공모전',
-      subTitle: '장려상',
+      title: '2015 재외동포재단 UCC공모전 – 장려상 수상',
+      subTitle: '정체성 - 같은 민족인 고려인들의 정체성은? 한국인인가 외국인인가',
       startedAt: '2015-11',
     },
     /*

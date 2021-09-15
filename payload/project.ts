@@ -34,7 +34,7 @@ const project: IProject.Payload = {
     {
       title: '애드맥스',
       startedAt: '2020-02',
-      endedAt: '2020-12',
+      //endedAt: '2020-12',
       where: 'ADMAX.',
       descriptions: [
         { content: '페이스북, 인스타, 유튜브 스크래핑 수정 okhttp, Jsoup' },
