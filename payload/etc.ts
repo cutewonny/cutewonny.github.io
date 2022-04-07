@@ -6,7 +6,8 @@ const etc: IEtc.Payload = {
   list: [
     {
       title: '무한루프 코딩 모임장: 개발자들의 역량을 향상시킬 수 있는 *스터디 플랫폼*',
-      subTitle: '운영진 6명과 200명의 회원들이 모각코, 스터디, 프로젝트를 합니다',
+      subTitle:
+        '운영진 6명과 200명의 회원들이 모각코, 스터디, 프로젝트를 합니다: https://somoim.friendscube.com/g/64b728fc-3488-11ec-a4f4-0a3e6cd915851',
       startedAt: '2021-10',
     },
     {

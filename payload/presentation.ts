@@ -83,9 +83,6 @@ const presentation: IPresentation.Payload = {
           content: 'notion에 팀원 5명이 글을 올리고 매주 토요일 마다 발표',
         },
         {
-          content: '스터디장: 널두',
-        },
-        {
           content: '노션:',
           postHref: 'https://www.notion.so/DeepDive-57d7502b01604f9a824d42fa267f757c',
         },
@@ -121,7 +118,7 @@ const presentation: IPresentation.Payload = {
         {
           content: '블로그:',
           postHref:
-            'https://cutewonny.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/WEB%EA%B0%9C%EB%B0%9C%20BOOT%20CAMP%20%5B2021-09-04~%EC%A7%84%ED%96%89%EC%A4%91%5D',
+            'https://cutewonny.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/WEB%EA%B0%9C%EB%B0%9C%20BOOT%20CAMP%20%5B2021-09-04~%EC%99%84%EB%A3%8C%5D',
         },
       ],
     },
