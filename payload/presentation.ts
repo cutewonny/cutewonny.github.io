@@ -7,21 +7,21 @@ const presentation: IPresentation.Payload = {
     {
       title: '무한루프 개발자 커뮤니티 웹 사이트 만들기 ',
       subTitle: '안써본 기술 다 써보자',
-      startedAt: '2021-03',
+      startedAt: '2022-03',
       descriptions: [
         {
           content:
             'IntelliJ, JPA, SpringSecurity, google oauth2, postSQL, Docker, React, nodeJS, 설계',
         },
         {
-          content: '맥코와 토론하면서 제작중',
+          content: '맥코와 토론하면서 제작 중',
           postHref: 'https://github.com/inf-loop-dev/center',
         },
       ],
     },
     {
       title: '친절한 SQL 튜닝 스터디',
-      subTitle: '이펙티브 자바 책을 6주만에 다 읽자',
+      subTitle: '친절한 SQL 튜닝 책을 6주만에 다 읽자',
       startedAt: '2022-03',
       endedAt: '2022-05',
       descriptions: [
@@ -31,7 +31,7 @@ const presentation: IPresentation.Payload = {
         {
           content: '블로그에 글을 올리고 매주 일요일마다 발표:',
           postHref:
-            'https://cutewonny.tistory.com/category/%EC%B9%9C%EC%A0%88%ED%95%9C%20sql%20%ED%8A%9C%EB%8B%9D',
+            'https://cutewonny.tistory.com/category/SQL/%EC%B9%9C%EC%A0%88%ED%95%9C%20sql%20%ED%8A%9C%EB%8B%9D',
         },
       ],
     },
@@ -80,7 +80,13 @@ const presentation: IPresentation.Payload = {
             '1) 자바스크립트 딥 다이브 책 완독, 2) 자바스크립트의 전반적 이해, 3) 발표/경청 능력 기르기',
         },
         {
-          content: 'notion으로 팀원 5명이 글을 올리고 매주 토요일마다 발표:',
+          content: 'notion에 팀원 5명이 글을 올리고 매주 토요일 마다 발표',
+        },
+        {
+          content: '스터디장: 널두',
+        },
+        {
+          content: '노션:',
           postHref: 'https://www.notion.so/DeepDive-57d7502b01604f9a824d42fa267f757c',
         },
       ],
@@ -98,8 +104,8 @@ const presentation: IPresentation.Payload = {
           content: '3기 진행 중',
         },
         {
-          content: 'Slideshare:',
-          postHref: 'https://cutewonny.tistory.com/entry/1주차-워밍업?category=973136',
+          content: '소모임 앱:',
+          postHref: 'https://cutewonny.tistory.com/entry/3%EA%B8%B0-%EB%AA%A8%EC%A7%91',
         },
       ],
     },
@@ -113,8 +119,9 @@ const presentation: IPresentation.Payload = {
           content: '즐겁게 코딩공부하고 결과물을 만드는 개발 스터디의 리더',
         },
         {
-          content: '블로그 설명 글:',
-          postHref: 'https://cutewonny.tistory.com/entry/1주차-워밍업?category=973136',
+          content: '블로그:',
+          postHref:
+            'https://cutewonny.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/WEB%EA%B0%9C%EB%B0%9C%20BOOT%20CAMP%20%5B2021-09-04~%EC%A7%84%ED%96%89%EC%A4%91%5D',
         },
       ],
     },
