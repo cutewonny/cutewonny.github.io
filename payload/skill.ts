@@ -96,7 +96,6 @@ const etc: ISkill.Skill = {
     {
       title: 'Bitbucket',
     },
-    
   ],
 };
 

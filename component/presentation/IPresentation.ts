@@ -27,7 +27,9 @@ export declare namespace IPresentation {
      * @format YYYY-MM
      * @example '2010-03'
      */
-    at: string;
+
+    startedAt: string;
+    endedAt?: string;
 
     /** ### 발표 설명 */
     descriptions: IRow.Description[];

@@ -21,7 +21,7 @@ export default function PresentationRow({
 function serialize(item: IPresentation.Item): IRow.Payload {
   return {
     left: {
-      title: DateTime.fromFormat(item.at, Util.LUXON_DATE_FORMAT.YYYY_LL).toFormat(
+      title: DateTime.fromFormat(item.startedAt, Util.LUXON_DATE_FORMAT.YYYY_LL).toFormat(
         Util.LUXON_DATE_FORMAT.YYYY_DOT_LL,
       ),
     },

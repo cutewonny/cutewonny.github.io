@@ -72,7 +72,7 @@ function createWorkingPeriod(startedAtString: string, endedAtString?: string) {
         DATE_FORMAT.YYYY_DOT_LL,
       )}`,
       endedAt: _endedAt,
-      isWorking: false,
+      isWorking: true,
     };
   })();
 
