@@ -9,13 +9,13 @@ const article: IArticle.Payload = {
       href: 'https://cutewonny.tistory.com/entry/okhttp?category=970376',
     },
     {
-      content: '(2021. 8. 24) 런덱 설치 방법',
-      href: 'https://cutewonny.tistory.com/entry/런덱-설치-방법?category=970376',
+      content: '개발 오답노트',
+      href:
+        'https://cutewonny.tistory.com/category/%EA%B2%80%EC%83%89%EC%9A%A9%20%EA%B0%9C%EB%B0%9C%20%EB%B8%94%EB%A1%9C%EA%B7%B8',
     },
     {
-      content: '(2021. 8. 16) 개발자 모드에서 스크립트를 어떻게 불러오지?',
-      href:
-        'https://cutewonny.tistory.com/entry/크롬-개발자모드에서-스크립트를-어떻게-불러오지?category=970374',
+      content: '아침 1시간 알고리즘',
+      href: 'https://cutewonny.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98',
     },
   ],
 };
